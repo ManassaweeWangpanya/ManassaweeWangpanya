@@ -1,7 +1,6 @@
 
 
 
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=480&lines=Hi+there%2C+I'm+Nif+%F0%9F%91%8B;Computer+Science+%40+University+of+Phayao;Aspiring+Front-end+Developer)](https://github.com/ManassaweeWangpanya)
 
 </div>
@@ -37,6 +36,10 @@
 ![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/ManassaweeWangpanya&query=$.public_repos&label=Repos&style=for-the-badge&logo=github&color=8B5CF6&labelColor=1a1b27)
 ![Profile Views](https://komarev.com/ghpvc/?username=ManassaweeWangpanya&style=for-the-badge&color=7aa2f7&label=Profile+Views)
 
+<img src="https://streak-stats.demolab.com?user=ManassaweeWangpanya&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<br/><br/>
+
 <img src="https://github-readme-stats-fast.vercel.app/api?username=ManassaweeWangpanya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
 <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ManassaweeWangpanya&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
 
@@ -50,6 +53,7 @@
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hanifleepung@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/YOUR-FACEBOOK-ID)
+
 
 
 </div>
